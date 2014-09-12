@@ -65,7 +65,6 @@ rm -rf $RPM_BUILD_ROOT
 %doc src/{COPYRIGHT,HISTORY,README}
 %{perl_vendorarch}/NetCDF.pm
 %dir %{perl_vendorarch}/auto/NetCDF
-%{perl_vendorarch}/auto/NetCDF/NetCDF.bs
 %attr(755,root,root) %{perl_vendorarch}/auto/NetCDF/NetCDF.so
 %{perl_vendorarch}/auto/NetCDF/autosplit.ix
 %{_mandir}/man1/netCDFPerl.1*
