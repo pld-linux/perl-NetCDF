@@ -1,4 +1,3 @@
-%include	/usr/lib/rpm/macros.perl
 Summary:	Perl interface for NetCDF
 Summary(pl.UTF-8):	Perlowy interfejs do biblioteki NetCDF
 Name:		perl-NetCDF
